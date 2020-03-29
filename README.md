@@ -2,6 +2,7 @@
 # Machine Learning Exercise 
 
   [Octave](http://www.gnu.org/software/octave/) is a high level (open source) programming language similar to Matlab. I'm using it for the [2020 Unibz Machine Learning Class]
+  Contains excersises done in class and solutions
 
 ## Machine Learning Source
    [Coursera](https://www.coursera.org/learn/machine-learning-projects)
