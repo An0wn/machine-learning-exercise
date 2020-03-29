@@ -2,7 +2,7 @@
 
   [Octave](http://www.gnu.org/software/octave/) is a high level (open source) programming language similar to Matlab. I'm using it for the [2020 Unibz Machine Learning Class]
 
-## Other Notable Open Source Machine Learning Sources
+## Machine Learning Source
    https://www.coursera.org/learn/machine-learning-projects
  
 ## License
